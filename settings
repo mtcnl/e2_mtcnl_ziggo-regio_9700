@@ -1,0 +1,19 @@
+config.av.videorate.720p=multi
+config.av.policy_43=scale
+config.av.videoport=DVI
+config.av.policy_169=scale
+config.misc.firstrun=false
+config.misc.initialchannelselection=false
+config.misc.startCounter=5
+config.misc.languageselected=false
+config.misc.videowizardenabled=false
+config.plugins.CableScan.networkid=9700
+config.plugins.CableScan.modulation=5
+config.plugins.CableScan.frequency=425
+config.osd.language=nl_NL
+config.tv.lastroot=1:7:1:0:0:0:0:0:0:0:(type == 1) || (type == 17) || (type == 22) || (type == 25) || (type == 134) || (type == 195) FROM PROVIDERS ORDER BY name;1:7:0:0:0:0:0:0:0:0:(provider == "Ziggo") && (type == 1) || (type == 17) || (type == 22) || (type == 25) || (type == 134) || (type == 195) ORDER BY name:Ziggo;
+config.tv.lastservice=1:0:19:100:1F:3E8:FFFF0000:0:0:0:
+config.usage.on_long_powerpress=shutdown
+config.ParentalControl.servicepinactive=true
+config.ParentalControl.configured=true
+config.ParentalControl.servicepin.0=4444
