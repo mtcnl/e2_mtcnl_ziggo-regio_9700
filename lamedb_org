@@ -52,7 +52,7 @@ ffff0000:0012:03e8
 	c 369000:6875000:2:3:0:0:0
 /
 ffff0000:0013:03e8
-	c 610000:6875000:2:5:0:0:0
+	c 474000:6875000:2:5:0:0:0
 /
 ffff0000:0016:03e8
 	c 810000:6875000:2:5:0:0:0
@@ -88,7 +88,7 @@ ffff0000:0020:03e8
 	c 554000:6875000:2:5:0:0:0
 /
 ffff0000:0021:03e8
-	c 401000:6875000:2:5:0:0:0
+	c 818000:6875000:2:5:0:0:0
 /
 ffff0000:00ce:03e8
 	c 436000:6875000:2:3:0:0:0
@@ -287,9 +287,6 @@ p:Home,f:40
 4656:ffff0000:0012:03e8:1:0
 Boomerang
 p:Home,f:40
-1b59:ffff0000:0007:03e8:1:0
-Euronews
-p:Ziggo,f:40
 1b5a:ffff0000:0007:03e8:1:0
 Private Spice
 p:Ziggo,c:0000d0,c:0100da,c:0300d0
@@ -890,9 +887,6 @@ p:Ziggo,f:40
 03ed:ffff0000:0001:03e8:1:0
 NDR
 p:Home,f:40
-80ed:ffff0000:0021:03e8:1:0
-FOX Sports 6
-p:Ziggo,f:40
 00ee:ffff0000:0017:03e8:1:0
 Ziggo Xite
 p:Ziggo,f:40
@@ -1466,14 +1460,8 @@ p:Ziggo,f:40
 0328:ffff0000:0006:03e8:25:0
 Zenderoverzicht HD
 p:Ziggo,f:40
-7535:ffff0000:001e:03e8:25:0
-Film1 Spotlight HD
-p:Ziggo,f:40
 714b:ffff0000:001d:03e8:25:0
 Nederland 3 HD
-p:Ziggo,f:40
-1776:ffff0000:0006:03e8:25:0
-TLC HD
 p:Ziggo,f:40
 3e82:ffff0000:0010:03e8:25:0
 Sport1 Select HD
@@ -1496,32 +1484,14 @@ p:Ziggo,c:000065,c:020067,c:030065,c:040024,c:09750202,c:050001,C:0604
 08a0:ffff0000:0020:03e8:25:0
 Veronica HD/Disney XD
 p:Ziggo,f:40
-0fa3:ffff0000:0004:03e8:25:0
-FOX Sports 3 Eredivisie HD
-p:Ziggo,f:40
 00a7:ffff0000:0003:03e8:25:0
 Eurosport HD
-p:Ziggo,f:40
-61aa:ffff0000:0019:03e8:25:0
-BBC 1 HD
 p:Ziggo,f:40
 0cab:ffff0000:0003:03e8:25:0
 Eurosport 2 HD
 p:Ziggo,f:40
-61ab:ffff0000:0019:03e8:25:0
-BBC 2 HD
-p:Ziggo,f:40
-61ac:ffff0000:0019:03e8:25:0
-FOX Sports 6 HD
-p:Ziggo,f:40
-36b2:ffff0000:000e:03e8:25:0
-FOX Sports 5 Eredivisie HD
-p:Ziggo,f:40
 5dc1:ffff0000:0018:03e8:25:0
 HISTORY HD
-p:Ziggo,f:40
-5dc2:ffff0000:0018:03e8:25:0
-Film1 Action HD
 p:Ziggo,f:40
 00c9:ffff0000:001d:03e8:25:0
 Nederland 1 HD
@@ -1573,12 +1543,6 @@ Nat Geo Wild HD
 p:Ziggo,f:40
 00e1:ffff0000:001f:03e8:25:0
 MTV Live HD
-p:Ziggo,f:40
-59e2:ffff0000:0017:03e8:25:0
-FOX Sports 4 HD
-p:Ziggo,f:40
-2ee8:ffff0000:000c:03e8:25:0
-Film1 Comedy & Kids HD
 p:Ziggo,f:40
 00ea:ffff0000:0021:03e8:25:0
 HBO HD
@@ -1773,4 +1737,4 @@ p:Ziggo,f:40
 Digi1_Sd
 p:Ziggo,f:40
 end
-Edited with dreamboxEDIT 5.0.0.1 on 16sep2014 12:37:25
+Edited with dreamboxEDIT 5.0.0.1 on 19jun2014 18:25:32
